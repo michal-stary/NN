@@ -1,0 +1,13 @@
+.cmake/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+# CMakeLists.txt
+Makefile
+NN
+NN.cbp
+Testing/
+cmake-build-debug/
+cmake-build-release/
+cmake_install.cmake
+pv021_project/
